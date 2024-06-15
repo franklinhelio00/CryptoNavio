@@ -1,0 +1,15 @@
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\obj\Debug\net7.0\CryptoNavio.csproj.AssemblyReference.cache
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\obj\Debug\net7.0\CryptoNavio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\obj\Debug\net7.0\CryptoNavio.AssemblyInfoInputs.cache
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\obj\Debug\net7.0\CryptoNavio.AssemblyInfo.cs
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\obj\Debug\net7.0\CryptoNavio.csproj.CoreCompileInputs.cache
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\bin\Debug\net7.0\CryptoNavio.exe
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\bin\Debug\net7.0\CryptoNavio.deps.json
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\bin\Debug\net7.0\CryptoNavio.runtimeconfig.json
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\bin\Debug\net7.0\CryptoNavio.dll
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\bin\Debug\net7.0\CryptoNavio.pdb
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\obj\Debug\net7.0\CryptoNavio.dll
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\obj\Debug\net7.0\refint\CryptoNavio.dll
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\obj\Debug\net7.0\CryptoNavio.pdb
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\obj\Debug\net7.0\CryptoNavio.genruntimeconfig.cache
+C:\Users\frank\InteliTrader\CriptNavio\CryptoNavio\obj\Debug\net7.0\ref\CryptoNavio.dll
